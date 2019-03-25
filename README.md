@@ -60,6 +60,9 @@ $ python gen_tfrecord_mpii.py  # Will generate the tfrecord files
 First download and unzip the
 [pretrained models](https://cmu.box.com/shared/static/s72scgtjj3lm60hsufi25rfjs2dk3a7i.zip)
 to a `$ROOT/src/pretrained_models/`.
+
+If you could not download pretrained models from links offered by original author, you can download from my reuploaded pretrained model from [Baidu Disk](https://pan.baidu.com/s/1OZvJHYaAvp0l_6sYaWMumg) (passwd: wne3) and Google Drive(https://drive.google.com/file/d/1uSFd0BjRAgOTPaRtSD3dPZGqNk09chR7/view?usp=sharing).
+
 The models can be run by
 
 ```bash
